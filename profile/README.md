@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there Welcome to SchoolyAI 👋
 
 🙋‍♀️ A short introduction - what is your organization all about?
+
 Our organization is a leading force in advancing cybersecurity through cutting-edge research and development of Privacy-Preserving Machine Learning (PPML) systems. We specialize in leveraging state-of-the-art techniques to predict and prevent cyber threats while safeguarding sensitive data. Our commitment to privacy ensures that your information remains protected even as we utilize it to enhance security.
 
 🌈 Contribution guidelines - how can the community get involved?
