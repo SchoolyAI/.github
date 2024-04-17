@@ -1,4 +1,4 @@
-## Hi there Welcome to SchoolyAI 👋
+## Welcome to SchoolyAI 👋
 
 🙋‍♀️ A short introduction - what is your organization all about?
 
